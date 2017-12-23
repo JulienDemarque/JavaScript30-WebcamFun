@@ -1,0 +1,14 @@
+{
+  "name": "javascript30-webcam-fun",
+  "version": "1.0.0",
+  "description": "day 19 of Wes Bos JavaScript30",
+  "main": "script.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.21.0"
+  }
+}
