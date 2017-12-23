@@ -7,3 +7,5 @@ It is a Photo Booth with filters (red filter, rgb split, "green" screen), you ca
 It runs in the browser from your local server (uses Browsersync).
 
 To install, copy the files, run "npm install" then "npm start". It will open in : http://localhost:3000/
+
+You can see the app running on : https://juliendemarque.github.io/JavaScript30-WebcamFun/
